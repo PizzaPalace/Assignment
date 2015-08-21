@@ -22,6 +22,22 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.matrimony.training.assignment.PlanetInfoActivity"
+            android:label="@string/title_activity_planet_info"
+            android:parentActivityName="com.matrimony.training.assignment.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.matrimony.training.assignment.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.matrimony.training.assignment.SwipeImage"
+            android:label="@string/title_activity_swipe_image"
+            android:parentActivityName="com.matrimony.training.assignment.PlanetInfoActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.matrimony.training.assignment.PlanetInfoActivity" />
+        </activity>
     </application>
 
 </manifest>

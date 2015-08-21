@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\BM\Assignment\Assignment\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\BM\Assignment\Assignment\app\build\intermediates\pre-dexed\debug\classes-47adb2d2f04a7e882a03d5aa00ad372b434bae92.jar" />
+    </item>
+    <item
+        jar="D:\BM\Assignment\Assignment\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\BM\Assignment\Assignment\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-44aa4d56acf0000b1c67855670816be2bc64b40d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rutuja\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\BM\Assignment\Assignment\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-dab91ae59cffe8499a65b330d386bafa5886cbfd.jar" />
+    </item>
+    <item
+        jar="D:\BM\Assignment\Assignment\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="D:\BM\Assignment\Assignment\app\build\intermediates\pre-dexed\debug\classes-ce6afebbadc0bdd38129c9c502b456b14e3b69f0.jar" />
+    </item>
+
+</items>
